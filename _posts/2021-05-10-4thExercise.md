@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "로지스틱회귀 ."
+title: "로지스틱회귀 실습예제."
 ---
 
 

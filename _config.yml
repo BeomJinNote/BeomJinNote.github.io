@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "BeomJin's Coding Note"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "JeongBeomJin"
+name                     : "Jeong Beom Jin"
 description              : "An amazing website."
 url                      : "https://BeomJinNote.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
